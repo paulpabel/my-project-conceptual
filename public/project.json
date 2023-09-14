@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/h1N21RR/xy1.jpg",
+      "name": "John Doe",
+      "country": "United States",
+      "salary": 5000,
+      "role": "Software Engineer"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/GPffRWP/xy2.jpg",
+      "name": "Jane Smith",
+      "country": "Canada",
+      "salary": 8000,
+      "role": "Data Analyst"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/pycSCkQ/xy3.jpg",
+      "name": "David Johnson",
+      "country": "United Kingdom",
+      "salary": 7000,
+      "role": "Product Manager"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/nnY5MFW/xy4.jpg",
+      "name": "Maria Garcia",
+      "country": "Spain",
+      "salary": 9000,
+      "role": "Graphic Designer"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/b363Ktv/xy5.jpg",
+      "name": "Ahmed Ali",
+      "country": "United Arab Emirates",
+      "salary": 3000,
+      "role": "Marketing Manager"
+    }
+  ]
+  
+
